@@ -24,7 +24,7 @@ The **Hotel Reservation Prediction** project is a machine learning system that f
 
 The model was trained and tracked using **MLflow** with the following metrics and hyperparameters:
 
-![MLflow Experiment Run](./research/mlflow-exp.png)
+![MLflow Experiment Run](https://github.com/mltweakster/Hotel-Reservation-Prediction/blob/main/research/mlflow-exp.png)
 
 ### **Jenkins CI/CD Pipeline:**
 
@@ -38,7 +38,7 @@ This project is integrated with a **CI/CD pipeline** using Jenkins:
 > 4. Build and Push Docker Image  
 > 5. Deploy to Google Cloud Run
 
-![Jenkins Pipeline](./research/jenkins-cicd.png)
+![Jenkins Pipeline](https://github.com/mltweakster/Hotel-Reservation-Prediction/blob/main/research/jenkins-cicd.png)
 
 ### **Outcomes**
 
