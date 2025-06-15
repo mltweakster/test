@@ -48,7 +48,7 @@ This project is integrated with a **CI/CD pipeline** using Jenkins:
 - **Portable, Dockerized App**
 - **Reproducible Experiments via MLflow**
 
-> ![Flask App Prediction](./research/flask-app.png)
+> ![Flask App Prediction](https://github.com/Hotel-Reservation-Prediction/research/flask-app.png)
 
 ---
 
